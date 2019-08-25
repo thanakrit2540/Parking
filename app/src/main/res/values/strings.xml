@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Parking</string>
-    <string name="freeOne_button">FREE</string>
-    <string name="freeTwo_button">FREE</string>
-    <string name="freeThree_button">FREE</string>
-    <string name="freeOne_button1">FREE</string>
+    <string name="freeOne_button">Empty</string>
+    <string name="freeTwo_button">Empty</string>
+    <string name="freeThree_button">Empty</string>
+    <string name="freeOne_button1">Empty</string>
     <string name="Input_Name"/>
     <string name="Name_Text">Name</string>
     <string name="Band_Text">Band</string>
