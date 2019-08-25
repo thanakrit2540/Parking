@@ -4,4 +4,12 @@
     <string name="freeTwo_button">FREE</string>
     <string name="freeThree_button">FREE</string>
     <string name="freeOne_button1">FREE</string>
+    <string name="Input_Name"/>
+    <string name="Name_Text">Name</string>
+    <string name="Band_Text">Band</string>
+    <string name="No_Text">No.</string>
+    <string name="Input_Band"/>
+    <string name="Input_No"/>
+    <string name="Add_Button">UPDATE</string>
+    <string name="Cancel_Button">DELETE</string>
 </resources>
