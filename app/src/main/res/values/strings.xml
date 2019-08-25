@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parking</string>
+    <string name="freeOne_button">FREE</string>
+    <string name="freeTwo_button">FREE</string>
+    <string name="freeThree_button">FREE</string>
+    <string name="freeOne_button1">FREE</string>
+</resources>
